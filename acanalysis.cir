@@ -1,0 +1,8 @@
+* C:\Users\info\Desktop\Sahil\Perl\New folder\acanalysis.cir
+Vin 1 0 ac sin(1 100Hz)
+r1 1 2 10
+l1 2 3 100m
+c1 3 0 1.5u
+.ac DEC 20 100Hz 100Khz
+.print AC V(3)
+.end
