@@ -1,0 +1,11 @@
+* C:\Users\info\Desktop\Sahil\Perl\New folder\dependant.cir
+E1 1 0 5 4 3
+I1 0 2 5
+r1 1 2 25
+r2 2 3 6
+r3 3 4 11
+r4 4 0 25
+r5 4 5 12
+r6 6 0 5
+.op
+.end
