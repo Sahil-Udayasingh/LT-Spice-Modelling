@@ -1,0 +1,8 @@
+Basic resistuve circuit
+v1 1 0 dc 5
+r1 1 2 2k
+r2 2 0 2.5k
+r3 2 3 2k
+r4 3 0 2.5k
+.op
+.end
